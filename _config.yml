@@ -16,7 +16,7 @@
 title: Thoughts between keystrokes
 email: adrian[dot]edeph[@t]google's mail service
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm Adrian, and I'm a developer and I'm trying to bind computers to my will to try make the world a better place.
+  I'm Adrian, I'm a developer and I'm trying to bind computers to my will to try make the world a better place.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: TudorAdrianC
