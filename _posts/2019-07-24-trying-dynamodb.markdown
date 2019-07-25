@@ -34,7 +34,7 @@ const docClient = new AWS.DynamoDB();
 
 The difference is subtle but it affects how you are using the API. And to be honest I didn't find the docs to be very upfront mentioning this difference.
 
-In the end I stuck with the lower level API because I prefer barebone stuff and because i'm a control freak :grimacing:;
+In the end I stuck with the lower level API because I prefer barebone stuff and because i'm a control freak :grimacing:. (Later I would find out that I didn't really get any kind of extra control)
 
 ## CRUD
 
