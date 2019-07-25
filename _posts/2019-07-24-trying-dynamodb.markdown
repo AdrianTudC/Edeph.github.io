@@ -8,7 +8,7 @@ This week at work I had to move some persistent data from browser's localstorage
 
 Naturally the first question that popped up was: what database to use? Nosql was pretty much a no-brainer since I didn't have any complicated data to keep, but what flavour of nosql? Me personally, I'm a big fan of mongoDB, I've been using it for 5 years now and I think it matured well, I would have also finished the implementation faster because I know the API (almost) inside-out. But due to some deployment-related restrictions I decided to give DynamoDB a try. After all, why not add another tool on my belt.
 
-But oh boy I was in for a surprise.
+But oh boy, I was in for a surprise.
 
 ## The lib structure
 
